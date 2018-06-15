@@ -1,0 +1,14 @@
+.col-sm-4:hover{
+    transform: scale(1.5);
+}
+
+div .col-sm-4{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+img {
+    height: 300px;
+    max-width: 300px;
+    object-fit: scale-down;
+}

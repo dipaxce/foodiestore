@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #6b99fc;
+}
+
+nav div ul li a{ 
+    color: black;   
+    animation: fadeEffect 1s;
+    
+}   
+
+/* //mediumblue */
+
+@keyframes fadeEffect {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+nav div ul li a:hover{
+   background-color:#3b5998;
+}
+
