@@ -1,5 +1,7 @@
 # Foodiestore
 
+This is an incomplete personal project I did while learning Angular during the initial days. The project is intended to be a online food delivery portal. There are several design issues to be fixed.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
 ## Development server
